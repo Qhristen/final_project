@@ -88,6 +88,10 @@ The code achieves the following:
 4. Generates a PDA using predefined seeds and the program ID to ensure unique account creation.
 5. Submits a transaction to the WBA program, including your public key and GitHub username as proof of task completion.
 
+
+### Program/
+Holds the Interface Definition Language (IDL) files used for communication with the blockchain program.
+
 **How to Run**
 
 Install Required Packages
@@ -97,10 +101,6 @@ yarn
 Generate a new Solana wallet
 ```
 yarn keygen
-```
-Create a dev-wallet.json with secret key
-```
-touch dev-wallet.json
 ```
 Request an airdrop of SOL tokens
 ```
