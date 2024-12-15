@@ -90,13 +90,27 @@ The code achieves the following:
 
 **How to Run**
 
+Install Required Packages
 ```
-yarn or npm insall
+yarn
 ```
-
+Generate a new Solana wallet
 ```
 yarn keygen
+```
+Create a dev-wallet.json with secret key
+```
+touch dev-wallet.json
+```
+Request an airdrop of SOL tokens
+```
 yarn airdrop
+```
+Send SOL tokens from one wallet to another 
+```
 yarn transfer
+```
+Enroll to WBA prerequisite
+```
 yarn enroll
 ```
