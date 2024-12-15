@@ -1,7 +1,7 @@
 https://explorer.solana.com/tx/3g9t53naMv6eW3G34TgyqWPU14Vvzvgn533xPu1wmxa6aVSxk7ZJNX47Rin2LaJbVHM62WMWnrpusTciCWFP6nTo?cluster=devnet
 
 
-This repository provides a collection of utilities to interact with the Solana blockchain, specifically the Devnet. It demonstrates how to perform essential blockchain operations using the `@solana/web3.js` and `@coral-xyz/anchor` libraries. it include creating wallets, performing transactions, and interacting with smart contracts (programs) like `wba_prereq`.
+This repository provides a collection of utilities to interact with the Solana blockchain, specifically the Devnet. It demonstrates how to perform essential blockchain operations using the `@solana/web3.js` and `@coral-xyz/anchor` libraries. it include creating wallets, performing transactions and interacting with smart contracts (programs) like `wba_prereq`.
 
 
 ### Keygen.ts
